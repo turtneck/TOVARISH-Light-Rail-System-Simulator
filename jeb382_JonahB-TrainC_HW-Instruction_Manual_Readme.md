@@ -1,5 +1,9 @@
 # Train Controller Hardware, Jonah Belback
 
+### [Full codebase zip file](https://drive.google.com/file/d/1X3RwxeJuK1W-IBBNViwig2YYpqZ4GxQ8/view?usp=sharing)
+### [DEMO Video](https://www.youtube.com/watch?v=NttK1euXUxQ)
+### [Small Addon Video of Container](https://www.youtube.com/watch?v=RplJmzJXj_U)
+
 The Train Controller hardware module is used to control a simulated train on the simulated track. The train 
 controller takes inputs from the train model (either through integration or through manual test bench) and the driver 
 then performs control functions on those inputs in order to provide the train model with an engine power. All actions 
