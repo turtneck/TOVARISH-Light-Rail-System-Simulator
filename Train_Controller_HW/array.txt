@@ -1,0 +1,56 @@
+
+////////////////DRIVER ARR////////////////
+
+self.Driver_arr[0] = self.TCK_Kp.value()
+self.Driver_arr[1] = self.TCK_Ki.value()
+self.Driver_arr[2] = self.TCK_CmdSpd.value()            Manual only
+self.Driver_arr[3] = self.BTN_CabnLgt.isChecked()       Manual only
+self.Driver_arr[4] = self.BTN_HeadLgt.isChecked()       Manual only
+self.Driver_arr[5] = self.TCK_Temp.value()
+self.Driver_arr[6] = self.BTN_Door_L.isChecked()        Manual only
+self.Driver_arr[7] = self.BTN_Door_R.isChecked()        Manual only
+self.Driver_arr[8] = self.BTN_EBRK.isChecked()
+self.Driver_arr[9] = self.BTN_SBRK.isChecked()
+self.Driver_arr[10] = disabled passenger brake
+
+int LED_CabnLgt    = 22;
+int LED_HeadLgt    = 23;
+int LED_Door_L     = 24;
+int LED_Door_R     = 25;
+int LED_Pass_EB    = 26;
+int LED_Track_Circ = 27;
+int LED_Stat_Side2 = 28;
+int LED_Stat_Side1 = 29;
+int LED_Sig_Fail   = 30;
+int LED_Eng_Fail   = 31;
+int LED_Brk_Fail   = 32;
+int LED_EBRK_Fail  = 33;
+int LED_SBRK_Fail  = 34;
+
+
+////////////////TRAIN MODEL////////////////
+0           Actual Speed	m/s	How fast its actively going
+1           Commanded Speed	m/s	Safe speed	1	
+2           Vital Authority	m	Safe authority	2	
+beacon      speed limit	km/hr	speed thats safe; max
+constant    Acceleration Limit	m/s^2	Acceleration thats safe; Max
+constant    Deacceleration Limit	m/s^2	Deacceleration thats safe; Max
+3           eBrake (Passenger)	Boolean	Passenger requested Emergency brake; 1:on, 0:otherwise	
+4           Track Circuit State	Boolean	Position/Direction of track circuit
+beacon      station side	Integer	What side of train station is on; 0:none, 1:left, 2:right, 3:both   ;   beacon, under block number information index
+5           0 for above-ground 1 for underground
+xxxxx       Failure From Train Model	Boolean	Fails: signal, engine, break
+6           Beacon	128 Byte characters	[3bytes] block number (has stored information on each block: name, side)    ;   check if is different then last read for incoming/outgoing
+
+
+////////////////OUTPUT ARRAY////////////////
+0   Commanded Speed	                m/s	        How fast the driver has commanded the train to go
+1   Power                           Watts	    Engine power
+2   On/Off Service Brake	        Boolean	    Slow down vital control from train controller
+3   On/Off Emergency Brake	        Boolean	    Emergency Slow down vital control from train controller
+4   Open/Close Left/Right Doors	    integer	    Which Doors to open; 0:none, 1:left, 2:right, 3:both
+5   Announce Stations	            String	    not "" make announcement of String; "" don't make announcement
+6   Cabin lights (interior)	        Boolean	    lights inside cabin; Automatically turned on from enviroment or toggled by driver; 1 on, 0 off
+7   headlights (exterior)	        Boolean	    Automatically turned on from enviroment or toggled by driver; 1 on, 0 off
+8   Cabin Temperature	            Fahrenheit  What temperature to make cabin
+x   Act On Faults/Failures	        N/A	        No specific unit, but a change in behavior represented in one of these other outputs

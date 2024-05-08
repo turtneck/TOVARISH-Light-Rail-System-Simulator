@@ -1,0 +1,36 @@
+Hi
+
+-------------
+A: DRIVER EXT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: EXT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DRIVER EXT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: EXT LIGHT: CHANGE1: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+M: DRIVER EXT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+M: EXT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+M: DRIVER EXT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+M: EXT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+[!!!!!] 07driver_ext_lights: <PASS>

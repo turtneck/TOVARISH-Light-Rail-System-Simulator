@@ -1,0 +1,148 @@
+Hi
+
+-------------
+A: DRIVER L DOOR: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DRIVER R DOOR: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DOOR OUTPUT: INIT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: DRIVER L DOOR: LEFT: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: DRIVER R DOOR: LEFT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DOOR OUTPUT: LEFT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: DRIVER L DOOR: RIGHT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DRIVER R DOOR: RIGHT: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: DOOR OUTPUT: RIGHT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: DRIVER L DOOR: BOTH: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: DRIVER R DOOR: BOTH: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: DOOR OUTPUT: BOTH: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: DRIVER L DOOR: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+M: DRIVER R DOOR: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+M: DOOR OUTPUT: INIT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: DRIVER L DOOR: LEFT: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+M: DRIVER R DOOR: LEFT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+M: DOOR OUTPUT: LEFT: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: DRIVER L DOOR: RIGHT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+M: DRIVER R DOOR: RIGHT: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+M: DOOR OUTPUT: RIGHT: <PASS>
+REAL:	<2>		GOAL:	<2>
+
+-------------
+M: DRIVER L DOOR: BOTH: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+M: DRIVER R DOOR: BOTH: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+M: DOOR OUTPUT: BOTH: <PASS>
+REAL:	<3>		GOAL:	<3>
+
+-------------
+MOVING: DRIVER L DOOR: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+MOVING: DRIVER R DOOR: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+MOVING: DOOR OUTPUT: INIT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+MOVING: DRIVER L DOOR: LEFT: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+MOVING: DRIVER R DOOR: LEFT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+MOVING: DOOR OUTPUT: LEFT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+MOVING: DRIVER L DOOR: RIGHT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+MOVING: DRIVER R DOOR: RIGHT: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+MOVING: DOOR OUTPUT: RIGHT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+MOVING: DRIVER L DOOR: BOTH: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+MOVING: DRIVER R DOOR: BOTH: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+MOVING: DOOR OUTPUT: BOTH: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+[!!!!!] 04driver_door: <PASS>

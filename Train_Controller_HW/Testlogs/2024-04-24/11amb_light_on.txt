@@ -1,0 +1,104 @@
+Hi
+
+-------------
+A: AMBIENT LIGHT: Inheritance: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: AMBIENT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: INT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: EXT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: AMBIENT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: INT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: EXT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: AMBIENT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: INT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: EXT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: AMBIENT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: INT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: EXT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: AMBIENT LIGHT: CHANGE2: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: INT LIGHT: CHANGE2: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: EXT LIGHT: CHANGE2: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: AMBIENT LIGHT: DRIVER1: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DRIVER INT LIGHT: DRIVER1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: INT LIGHT: DRIVER1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: EXT LIGHT: DRIVER1: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: AMBIENT LIGHT: DRIVER2: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DRIVER INT LIGHT: DRIVER2: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: DRIVER EXT LIGHT: DRIVER2: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: INT LIGHT: DRIVER2: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: EXT LIGHT: DRIVER2: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+[!!!!!] 11amb_light_on: <PASS>

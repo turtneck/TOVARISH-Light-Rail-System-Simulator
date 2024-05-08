@@ -1,0 +1,48 @@
+Hi
+
+-------------
+A: DRIVER EBRAKE: CHANGE0: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DRIVER EBRAKE: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+Driver TrainC #1:	[50.0, 50.0, 0.0, False, False, 0.0, False, False, False, False, False]	AUTO
+TrainModel TrainC #1:	[1, 1, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'] AUTO
+Output TrainC #1:	[1, 0.0, False, False, 0, '', False, False, 68.0]	AUTO
+
+-------------
+A: DRIVER EBRAKE: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: DRIVER EBRAKE: ENABLE: <PASS>
+REAL:	<True>		GOAL:	<True>
+Driver TrainC #1:	[50.0, 50.0, 0.0, False, False, 0.0, False, False, True, False, False]	AUTO
+TrainModel TrainC #1:	[1, 1, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'] AUTO
+Output TrainC #1:	[1, 0, False, True, 0, '', False, False, 68.0]	AUTO
+
+-------------
+A: DRIVER EBRAKE: CHANGE2: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DRIVER EBRAKE: REMOVED: <PASS>
+REAL:	<False>		GOAL:	<False>
+Driver TrainC #1:	[50.0, 50.0, 0.0, False, False, 0.0, False, False, False, False, False]	AUTO
+TrainModel TrainC #1:	[1, 1, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'] AUTO
+Output TrainC #1:	[1, 0.0, False, False, 0, '', False, False, 68.0]	AUTO
+
+-------------
+A: DRIVER EBRAKE: CHANGE3: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+M: DRIVER EBRAKE: ENABLE: <PASS>
+REAL:	<True>		GOAL:	<True>
+Driver TrainC #1:	[50.0, 50.0, 0.0, False, False, 0.0, False, False, True, False, False]	MANUAL
+TrainModel TrainC #1:	[1, 1, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'] MANUAL
+Output TrainC #1:	[0.0, 0, False, True, 0, '', False, False, 68.0]	MANUAL
+
+-------------
+[!!!!!] 02driver_ebreak_enable: <PASS>

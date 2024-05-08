@@ -1,0 +1,36 @@
+Hi
+
+-------------
+A: DRIVER INT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: INT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DRIVER INT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: INT LIGHT: CHANGE1: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+M: DRIVER INT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+M: INT LIGHT: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+M: DRIVER INT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+M: INT LIGHT: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+[!!!!!] 06driver_int_lights: <PASS>

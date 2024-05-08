@@ -1,0 +1,76 @@
+Hi
+
+-------------
+A: OUTPUT TEMP: INIT: <PASS>
+REAL:	<68.0>		GOAL:	<68>
+
+-------------
+A: DRIVER TEMP: +10: <PASS>
+REAL:	<10>		GOAL:	<10>
+
+-------------
+A: OUTPUT TEMP: CHANGE1: <PASS>
+REAL:	<78>		GOAL:	<78>
+
+-------------
+A: DRIVER TEMP: +10: <PASS>
+REAL:	<-10>		GOAL:	<-10>
+
+-------------
+A: OUTPUT TEMP: CHANGE1: <PASS>
+REAL:	<58>		GOAL:	<58>
+
+-------------
+A: DRIVER TEMP: +10: <PASS>
+REAL:	<20>		GOAL:	<20>
+
+-------------
+A: OUTPUT TEMP: CHANGE1: <PASS>
+REAL:	<88>		GOAL:	<88>
+
+-------------
+A: DRIVER TEMP: +10: <PASS>
+REAL:	<-20>		GOAL:	<-20>
+
+-------------
+A: OUTPUT TEMP: CHANGE1: <PASS>
+REAL:	<48>		GOAL:	<48>
+
+-------------
+A: OUTPUT TEMP: INIT: <PASS>
+REAL:	<68>		GOAL:	<68>
+
+-------------
+A: DRIVER TEMP: +10: <PASS>
+REAL:	<10>		GOAL:	<10>
+
+-------------
+A: OUTPUT TEMP: CHANGE1: <PASS>
+REAL:	<78>		GOAL:	<78>
+
+-------------
+A: DRIVER TEMP: +10: <PASS>
+REAL:	<-10>		GOAL:	<-10>
+
+-------------
+A: OUTPUT TEMP: CHANGE1: <PASS>
+REAL:	<58>		GOAL:	<58>
+
+-------------
+A: DRIVER TEMP: +10: <PASS>
+REAL:	<20>		GOAL:	<20>
+
+-------------
+A: OUTPUT TEMP: CHANGE1: <PASS>
+REAL:	<88>		GOAL:	<88>
+
+-------------
+A: DRIVER TEMP: +10: <PASS>
+REAL:	<-20>		GOAL:	<-20>
+
+-------------
+A: OUTPUT TEMP: CHANGE1: <PASS>
+REAL:	<48>		GOAL:	<48>
+
+-------------
+[!!!!!] 17driver_temp: <PASS>

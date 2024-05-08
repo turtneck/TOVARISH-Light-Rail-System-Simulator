@@ -1,0 +1,37 @@
+Hi
+
+-------------
+PASSENGER EBRAKE: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+PASSENGER EBRAKE: AUTO: <PASS>
+REAL:	<True>		GOAL:	<True>
+Driver TrainC #1:	[50.0, 50.0, 0.0, False, False, 0.0, False, False, False, False, False]	AUTO
+TrainModel TrainC #1:	[0, 0, 0, True, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'] AUTO
+Output TrainC #1:	[0, 0, True, True, 0, '', False, False, 68.0]	AUTO
+
+-------------
+PASSENGER EBRAKE: CHANGE2: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+PASSENGER EBRAKE: REMOVED: <FAIL>
+REAL:	<False>		GOAL:	<True>
+Driver TrainC #1:	[50.0, 50.0, 0.0, False, False, 0.0, False, False, False, False, False]	AUTO
+TrainModel TrainC #1:	[0, 0, 0, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'] AUTO
+Output TrainC #1:	[0, 0, True, False, 0, '', False, False, 68.0]	AUTO
+
+-------------
+PASSENGER EBRAKE: CHANGE3: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+PASSENGER EBRAKE: MANUAL: <PASS>
+REAL:	<True>		GOAL:	<True>
+Driver TrainC #1:	[50.0, 50.0, 0.0, False, False, 0.0, False, False, False, False, False]	MANUAL
+TrainModel TrainC #1:	[0, 0, 0, True, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'] MANUAL
+Output TrainC #1:	[0, 0, True, True, 0, '', False, False, 68.0]	MANUAL
+
+-------------
+[!!!!!] 00pass_ebreak_enable: <FAIL>

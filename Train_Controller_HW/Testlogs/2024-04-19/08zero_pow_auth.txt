@@ -1,0 +1,316 @@
+Hi
+
+-------------
+A: ACTSPD: INIT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: CMDSPD: INIT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: AUTH: INIT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: POWER: 0,0,0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: ACTSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: CMDSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: AUTH: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: POWER: 1,0,0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: ACTSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: CMDSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: AUTH: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: POWER: 1,0,0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: ACTSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: CMDSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: AUTH: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: POWER: 1,0,1: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: ACTSPD: 1: <PASS>
+REAL:	<8>		GOAL:	<8>
+
+-------------
+A: CMDSPD: 1: <PASS>
+REAL:	<8>		GOAL:	<8>
+
+-------------
+A: AUTH: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: POWER: CMD SPD MATCH ACTUAL: <PASS>
+REAL:	<0.0>		GOAL:	<0>
+TRAIN[8, 8, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000']
+OUTPUT[8, 0.0, False, False, 0, '', False, False, 68.0]
+
+-------------
+A: ACTSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: CMDSPD: 2: <PASS>
+REAL:	<2>		GOAL:	<2>
+
+-------------
+A: AUTH: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: POWER: 1,2,1: <PASS>
+REAL:	<True>		GOAL:	<True>
+TRAIN[1, 2, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000']
+OUTPUT[2, 50.0, False, False, 0, '', False, False, 68.0]
+
+-------------
+A: ACTSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: CMDSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: AUTH: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: POWER: 0,1,1: <PASS>
+REAL:	<True>		GOAL:	<True>
+TRAIN[0, 1, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000']
+OUTPUT[1, 50.0, False, False, 0, '', False, False, 68.0]
+
+-------------
+A: ACTSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: CMDSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: AUTH: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: POWER: 0,1,1: <PASS>
+REAL:	<False>		GOAL:	<0>
+TRAIN[0, 1, 0, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000']
+OUTPUT[1, 0, True, False, 0, '', False, False, 68.0]
+
+-------------
+A: ACTSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: CMDSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+A: AUTH: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+A: POWER: 0,1,1: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: CMD SPD IS MANUAL: <PASS>
+REAL:	<5>		GOAL:	<5>
+
+-------------
+M: ACTSPD: INIT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: CMDSPD: INIT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: AUTH: INIT: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: POWER: 0,0,0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: ACTSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: CMDSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: AUTH: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: POWER: 1,0,0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: ACTSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: CMDSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: AUTH: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: POWER: 1,0,0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: ACTSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: CMDSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: AUTH: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: POWER: 1,0,1: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: ACTSPD: 1: <PASS>
+REAL:	<8>		GOAL:	<8>
+
+-------------
+M: CMDSPD: 1: <PASS>
+REAL:	<8>		GOAL:	<8>
+
+-------------
+M: AUTH: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: POWER: CMD SPD MATCH ACTUAL: <PASS>
+REAL:	<0>		GOAL:	<0>
+TRAIN[50.0, 50.0, 8, False, False, 0.0, False, False, False, False, False]
+TRAIN[8, 0, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000']
+OUTPUT[8, 0, False, False, 0, '', False, False, 68.0]
+
+-------------
+M: ACTSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: CMDSPD: 2: <PASS>
+REAL:	<2>		GOAL:	<2>
+
+-------------
+M: AUTH: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: POWER: 1,2,1: <PASS>
+REAL:	<True>		GOAL:	<True>
+TRAIN[50.0, 50.0, 2, False, False, 0.0, False, False, False, False, False]
+TRAIN[1, 0, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000']
+OUTPUT[2, 25.011372566223145, False, False, 0, '', False, False, 68.0]
+
+-------------
+M: ACTSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: CMDSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: AUTH: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: POWER: 0,1,1: <PASS>
+REAL:	<True>		GOAL:	<True>
+TRAIN[50.0, 50.0, 1, False, False, 0.0, False, False, False, False, False]
+TRAIN[0, 0, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000']
+OUTPUT[1, 25.011372566223145, False, False, 0, '', False, False, 68.0]
+
+-------------
+M: ACTSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: CMDSPD: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: AUTH: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: POWER: 0,1,1: <PASS>
+REAL:	<False>		GOAL:	<0>
+TRAIN[50.0, 50.0, 1, False, False, 0.0, False, False, False, False, False]
+TRAIN[0, 0, 0, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000']
+OUTPUT[1, 0, False, False, 0, '', False, False, 68.0]
+
+-------------
+M: ACTSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: CMDSPD: 0: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+M: AUTH: 1: <PASS>
+REAL:	<1>		GOAL:	<1>
+
+-------------
+M: POWER: 0,1,1: <PASS>
+REAL:	<0>		GOAL:	<0>
+
+-------------
+[!!!!!] 08zero_pow_auth: <PASS>

@@ -1,0 +1,48 @@
+Hi
+
+-------------
+A: DRIVER SBRAKE: CHANGE0: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DRIVER SBRAKE: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+Driver TrainC #1:	[50.0, 50.0, 0.0, False, False, 0.0, False, False, False, False, False]	AUTO
+TrainModel TrainC #1:	[1, 1, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'] AUTO
+Output TrainC #1:	[1, 0.0, False, False, 0, '', False, False, 68.0]	AUTO
+
+-------------
+A: DRIVER SBRAKE: CHANGE1: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: DRIVER SBRAKE: ENABLE IN AUTO: <PASS>
+REAL:	<False>		GOAL:	<False>
+Driver TrainC #1:	[50.0, 50.0, 0.0, False, False, 0.0, False, False, False, True, False]	AUTO
+TrainModel TrainC #1:	[1, 1, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'] AUTO
+Output TrainC #1:	[1, 0.0, False, False, 0, '', False, False, 68.0]	AUTO
+
+-------------
+A: DRIVER SBRAKE: CHANGE2: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: DRIVER SBRAKE: REMOVED: <PASS>
+REAL:	<False>		GOAL:	<False>
+Driver TrainC #1:	[50.0, 50.0, 0.0, False, False, 0.0, False, False, False, False, False]	MANUAL
+TrainModel TrainC #1:	[1, 1, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'] MANUAL
+Output TrainC #1:	[0.0, 0, False, False, 0, '', False, False, 68.0]	MANUAL
+
+-------------
+A: DRIVER SBRAKE: CHANGE3: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+M: DRIVER SBRAKE: ENABLE: <PASS>
+REAL:	<True>		GOAL:	<True>
+Driver TrainC #1:	[50.0, 50.0, 0.0, False, False, 0.0, False, False, False, True, False]	MANUAL
+TrainModel TrainC #1:	[1, 1, 1, False, False, False, '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'] MANUAL
+Output TrainC #1:	[0.0, 0, True, False, 0, '', False, False, 68.0]	MANUAL
+
+-------------
+[!!!!!] 03driver_sbreak_enable: <PASS>

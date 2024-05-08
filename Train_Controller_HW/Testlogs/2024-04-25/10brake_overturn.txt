@@ -1,0 +1,44 @@
+Hi
+
+-------------
+A: SBRAKE: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: EBRAKE: INIT: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: SBRAKE: CALC1: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: EBRAKE: CALC1: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: SBRAKE: CALC2: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: EBRAKE: CALC2: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: SBRAKE: CALC3: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: EBRAKE: CALC3: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+A: SBRAKE: CALC4: <PASS>
+REAL:	<False>		GOAL:	<False>
+
+-------------
+A: EBRAKE: CALC4: <PASS>
+REAL:	<True>		GOAL:	<True>
+
+-------------
+[!!!!!] 10brake_overturn: <PASS>
